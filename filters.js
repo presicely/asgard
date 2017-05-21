@@ -31,3 +31,5 @@ www.toonova.net###mini-announcement
 www.toonova.net###content > .info_block
 www.toonova.net###disqus_thread
 www.toonova.net###eps_blocks
+gomovies.to###mv-info > .mvi-content
+gomovies.to###commentfb
