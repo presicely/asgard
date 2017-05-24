@@ -22,14 +22,19 @@
 ||bet365.com/*
 ||104.198.61.4/*
 ||jbjcv.com/*
+||http://rlqvyqgjkxgx.com/*
 ||mg.adskeeper.co.uk/*
-||go.padsdel.com/*
+||https://go.padsdel.com/ajs.php
+!||https://go.padsdel.com/*
+!||go.padsdel.com/ajs.php^*
 ||ajax.cloudflare.com/cdn-cgi/nexp/*
-www.toonova.net###M_AD
-www.toonova.net###Mad
-www.toonova.net###mini-announcement
-www.toonova.net###content > .info_block
-www.toonova.net###disqus_thread
-www.toonova.net###eps_blocks
-||gomovies.to###mv-info > .mvi-content
-||gomovies.to###commentfb
+||static.beeg.com/js/ads/ads.js
+!||static.beeg.com/cpl/2096.js
+||www.toonova.net###M_AD
+||www.toonova.net###Mad
+||www.toonova.net###mini-announcement
+||www.toonova.net###content > .info_block
+||www.toonova.net###disqus_thread
+||www.toonova.net###eps_blocks
+||gomovies.to###main > .container > .main-detail.main-content > .main-category.main-content > .content-kuss
+||https://onclkds.com/apu.php*
