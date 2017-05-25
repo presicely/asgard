@@ -38,3 +38,6 @@
 ||www.toonova.net###eps_blocks
 ||gomovies.to###main > .container > .main-detail.main-content > .main-category.main-content > .content-kuss
 ||https://onclkds.com/apu.php*
+||openload.co###exoNativeWidget2554079
+https://ads.exdynsrv.com/*
+https://go.padsdel.com/*
