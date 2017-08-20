@@ -8,6 +8,7 @@
 ||justdating.online/*
 ||894de8bb784.com/*
 ||srv.bebi.com/*
+||dating-snap.com/*
 ||www.toonova.net/scripts/front/search.js
 ||www.mgid.com##[src^="data:"]
 ||gomovies.to##[src^="data:"]
@@ -21,7 +22,14 @@
 ||rlqvyqgjkxgx.com/*
 ||bet365.com/*
 ||104.198.61.4/*
+||bet365.com/*
+||static.addtoany.com/*
 ||jbjcv.com/*
+||qrklxapy.bid/*
+http://qrklxapy.bid/*
+http://crtntrvjuun.bid/*
+http://cdn.www1.bob-bob-bobble.com/*
+https://streamango.com/assets/js/license.adbl.js
 ||http://rlqvyqgjkxgx.com/*
 ||mg.adskeeper.co.uk/*
 ||https://go.padsdel.com/ajs.php
@@ -41,3 +49,13 @@
 ||openload.co###exoNativeWidget2554079
 https://ads.exdynsrv.com/*
 https://go.padsdel.com/*
+https://streamango.com/*
+gomovies.to###sanygrA3SQkfVi7phvJ3EyQqu
+ultra-vid.com###g367CB268B1094004A3689751E7AC568FFloatingBanner0
+www.toonova.net###M_AD
+||i.toonova.com/ab/300.php?url=http://i.toonova.com/ab/bar300anime.html
+www.toonova.net###content > .info_block
+gomovies.to###main > .container > .main-detail.main-content > .main-category.main-content > .content-kuss
+openload.co###exoNativeWidget2554079
+gostream.is###overlay-123plugin
+openload.co###exoNativeWidget2554079
