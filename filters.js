@@ -32,9 +32,6 @@ http://cdn.www1.bob-bob-bobble.com/*
 https://streamango.com/assets/js/license.adbl.js
 ||http://rlqvyqgjkxgx.com/*
 ||mg.adskeeper.co.uk/*
-||https://go.padsdel.com/ajs.php
-!||https://go.padsdel.com/*
-!||go.padsdel.com/ajs.php^*
 ||ajax.cloudflare.com/cdn-cgi/nexp/*
 ||static.beeg.com/js/ads/ads.js
 !||static.beeg.com/cpl/2096.js
@@ -48,7 +45,6 @@ https://streamango.com/assets/js/license.adbl.js
 ||https://onclkds.com/apu.php*
 ||openload.co###exoNativeWidget2554079
 https://ads.exdynsrv.com/*
-https://go.padsdel.com/*
 https://streamango.com/*
 gomovies.to###sanygrA3SQkfVi7phvJ3EyQqu
 ultra-vid.com###g367CB268B1094004A3689751E7AC568FFloatingBanner0
@@ -59,3 +55,16 @@ gomovies.to###main > .container > .main-detail.main-content > .main-category.mai
 openload.co###exoNativeWidget2554079
 gostream.is###overlay-123plugin
 openload.co###exoNativeWidget2554079
+||https://go.padsdel.com/ajs.php
+!||https://go.padsdel.com/*
+!||go.padsdel.com/ajs.php^*
+||www.facebook.com/plugins/comments.php
+www.animetoon.org###mini-announcement
+||www.animetoon.org/ads/sidebar_upper_1.html
+||www.spendcrazy.net/ads/embed_ad_fl.html
+www.animetoon.org###ads-banner-inner
+www.animetoon.org###body > .s_right_col
+www.animetoon.org###comments
+www.animetoon.org###eps_blocks
+www.animetoon.org###M_AD
+www.animetoon.org###Mad
