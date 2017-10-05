@@ -19,6 +19,7 @@
 ||openload.co/assets/js/license.5.js
 ||imgg-cdn.adskeeper.co.uk/*
 ||c.adskeeper.co.uk/*
+https://c.disquscdn.com/*
 ||rlqvyqgjkxgx.com/*
 ||bet365.com/*
 ||104.198.61.4/*
@@ -30,6 +31,9 @@ http://qrklxapy.bid/*
 http://crtntrvjuun.bid/*
 http://cdn.www1.bob-bob-bobble.com/*
 https://streamango.com/assets/js/license.adbl.js
+https://st.bebi.com/*
+https://go.bebi.com/*
+zedo.com/*
 ||http://rlqvyqgjkxgx.com/*
 ||mg.adskeeper.co.uk/*
 ||ajax.cloudflare.com/cdn-cgi/nexp/*
@@ -68,3 +72,44 @@ www.animetoon.org###comments
 www.animetoon.org###eps_blocks
 www.animetoon.org###M_AD
 www.animetoon.org###Mad
+www.youtube.com###player-ads
+www.youtube.com###masthead-ad
+www5.animesubhd.net###main > .section:nth-of-type(2)
+www5.animesubhd.net###main > .section > .section-content > .sponsor-box
+www.animetoon.org###BB_SK_4922130028
+animetoon.org###M_AD
+animetoon.org###ads-banner-inner
+animetoon.org###Mad
+animetoon.org###mini-announcement
+animetoon.org###body > .s_right_col
+www.mangabb.co###BB_SK_4968885002
+www.mangabb.co###mini-announcement
+www.mangabb.co###home_sidebar:nth-of-type(2)
+www.mangabb.co###home_social
+animetoon.org###BB_SK_2674014850
+ww3.gogoanime.io###BB_SK_4491291615
+ww3.gogoanime.io###wrapper_bg > .content > .content_left > .main_body:nth-of-type(1) > .anime_video_body > .anime_video_body_comment
+ww3.gogoanime.io###BB_SK_8926345353
+
+! 9/26/2017, 8:42:29 PM http://kimcartoon.me/Cartoon/Teenage-Mutant-Ninja-Turtles-2012-Season-5/Episode-11-12-13?id=77080
+kimcartoon.me###myContainer > .w-right
+
+! 9/26/2017, 8:42:56 PM http://kimcartoon.me/Cartoon/Teenage-Mutant-Ninja-Turtles-2012-Season-5/Episode-11-12-13?id=77080
+kimcartoon.me###myContainer > .kcAds
+
+! 9/26/2017, 8:43:10 PM http://kimcartoon.me/Cartoon/Teenage-Mutant-Ninja-Turtles-2012-Season-5/Episode-11-12-13?id=77080
+kimcartoon.me###containerRoot > div:nth-of-type(7)
+
+! 9/26/2017, 8:43:26 PM http://kimcartoon.me/Cartoon/Teenage-Mutant-Ninja-Turtles-2012-Season-5/Episode-11-12-13?id=77080
+kimcartoon.me###divComments
+
+! 9/26/2017, 8:43:42 PM http://kimcartoon.me/Cartoon/Teenage-Mutant-Ninja-Turtles-2012-Season-5/Episode-11-12-13?id=77080
+kimcartoon.me###myContainer > .w-left > .clsTempMSg
+
+! 9/26/2017, 8:44:20 PM http://kimcartoon.me/Cartoon/Teenage-Mutant-Ninja-Turtles-2012-Season-5/Episode-11-12-13?id=77080
+kimcartoon.me###head > h3
+
+! 9/26/2017, 8:44:58 PM http://kimcartoon.me/Cartoon/Teenage-Mutant-Ninja-Turtles-2012-Season-5/Episode-11-12-13?id=77080
+kimcartoon.me###hideAds[href="javascript:void(0)"]
+
+www.youtube.com###movie_player > .ytp-share-button-visible.ytp-chrome-top > .ytp-chrome-top-buttons
